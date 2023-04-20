@@ -9,9 +9,7 @@ Ficheros Jupyter Notebook relacionados con curso:
 + [04_NumPy_assigment_Official_Solution](https://github.com/sgcortes/KerasTensor/blob/0dd9db4ab56e9e24debd4599459453bdead6789a/04_NumPy_AssignmentSOLUCION_OFICIAL.ipynb)
 
 ## TensorFlow
-+[05_Introduction_to_Tensorfow_Coding](https://github.com/sgcortes/KerasTensor/blob/fdc2d18831a72028d9d31fc1844a07acd18bb15b/05_Introduction_to_Tensorfow_Coding.ipynb)
++ [05_Introduction_to_Tensorfow_Coding](https://github.com/sgcortes/KerasTensor/blob/fdc2d18831a72028d9d31fc1844a07acd18bb15b/05_Introduction_to_Tensorfow_Coding.ipynb)
 tf.constants,tf.assigns, gather 
-
-+[06_TensorFlow_Coding_Assignment](https://github.com/sgcortes/KerasTensor/blob/31f814e0fb78bafb93ad7a7b415d5441d4b4a7f3/06_TensorFlow_AssignmentRESUELTO.ipynb)
-
-+[07_Gradient_Descent](https://github.com/sgcortes/KerasTensor/blob/ed64be47845015886533a58a63e1da48b9e2dacd/07_Gradient_Descent.ipynb)
++ [06_TensorFlow_Coding_Assignment](https://github.com/sgcortes/KerasTensor/blob/31f814e0fb78bafb93ad7a7b415d5441d4b4a7f3/06_TensorFlow_AssignmentRESUELTO.ipynb)
++ [07_Gradient_Descent](https://github.com/sgcortes/KerasTensor/blob/ed64be47845015886533a58a63e1da48b9e2dacd/07_Gradient_Descent.ipynb)
