@@ -13,3 +13,9 @@ Ficheros Jupyter Notebook relacionados con curso:
  tf.constants,tf.assigns, gather,  tf.convert_to_tensor(python_object), tensor.numpy(), 
 + [06_TensorFlow_Coding_Assignment](https://github.com/sgcortes/KerasTensor/blob/31f814e0fb78bafb93ad7a7b415d5441d4b4a7f3/06_TensorFlow_AssignmentRESUELTO.ipynb)
 + [07_Gradient_Descent](https://github.com/sgcortes/KerasTensor/blob/ed64be47845015886533a58a63e1da48b9e2dacd/07_Gradient_Descent.ipynb)
+
+## Neural Networks
++ [Introduction to Linear Regression](https://github.com/sgcortes/KerasTensor/blob/93b14ad05df50c57a3d2001b86ba4c4836340128/09_Linear_Regression.ipynb)
++ [Auto-MPG Data Processing](https://github.com/sgcortes/KerasTensor/blob/93b14ad05df50c57a3d2001b86ba4c4836340128/Copia_de_01_Data_Processing.ipynb)
++ [Linear Regression with Keras](https://github.com/sgcortes/KerasTensor/blob/93b14ad05df50c57a3d2001b86ba4c4836340128/02_Regression_with_Keras.ipynb)
++ [Binary Classification with Keras](https://github.com/sgcortes/KerasTensor/blob/973c2f7f0365e9dbff083034aa1577b489b9d949/03_Binary_Classification_with_Keras.ipynb)
