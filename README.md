@@ -19,3 +19,5 @@ Ficheros Jupyter Notebook relacionados con curso:
 + [Auto-MPG Data Processing](https://github.com/sgcortes/KerasTensor/blob/93b14ad05df50c57a3d2001b86ba4c4836340128/Copia_de_01_Data_Processing.ipynb)
 + [Linear Regression with Keras](https://github.com/sgcortes/KerasTensor/blob/93b14ad05df50c57a3d2001b86ba4c4836340128/02_Regression_with_Keras.ipynb)
 + [Binary Classification with Keras](https://github.com/sgcortes/KerasTensor/blob/973c2f7f0365e9dbff083034aa1577b489b9d949/03_Binary_Classification_with_Keras.ipynb)
++ [Loss Function for Regression](https://github.com/sgcortes/KerasTensor/blob/0fa0120688a00092e206580f127e3fd66256a24c/04_Regression_Loss_Functions.ipynb)
++ 
