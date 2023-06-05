@@ -21,3 +21,4 @@ Ficheros Jupyter Notebook relacionados con curso:
 + [Binary Classification with Keras](https://github.com/sgcortes/KerasTensor/blob/973c2f7f0365e9dbff083034aa1577b489b9d949/03_Binary_Classification_with_Keras.ipynb)
 + [Loss Function for Regression](https://github.com/sgcortes/KerasTensor/blob/0fa0120688a00092e206580f127e3fd66256a24c/04_Regression_Loss_Functions.ipynb)
 + [Classification Loss Functions](https://github.com/sgcortes/KerasTensor/blob/30f03ffce0bbc4b30af2770abb56dd4a5a2eba0f/05_Clasification_Loss_Functions.ipynb)
++ [Simple Backpropagation with GradientTape](https://github.com/sgcortes/KerasTensor/blob/55a927d88445749d176916b80f694f840f0b0d1a/07_Simple_Backprop_using_gradient_Tape.ipynb)
